@@ -1,5 +1,5 @@
 /**
-  * Created by msavoury on 4/18/17.
+  * Simple test app
   */
 object First extends App {
 
