@@ -1,3 +1,3 @@
-#Scala Playground
+# Scala Playground
 
 Scala Experimentation
